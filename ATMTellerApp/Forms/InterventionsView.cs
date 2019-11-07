@@ -487,6 +487,7 @@ namespace ATMTellerApp.Forms
         private void btnRegisterNewMalfunctionOrder_Click(object sender, EventArgs e)
         {
             //TO DO Rješit USERA DA SE LOGIRA , Globalnu variablu stavit 
+            //Login
             var userid = 1;
             AtmUserModel user = new AtmUserModel();
             user.Id = userid;
