@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="AtmTeller.Data.DataModel.TechnicianModel" Collapsed="true">
+    <Position X="11.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACABAAACAAAAAAAAAAAAQABAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>DataModel\TechnicianModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AtmTeller.Data.DataModel.RefillModel">
+    <Position X="5.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAIAAQAACAAAAEAAAAAAAAAAAABAAAAAAAJACA=</HashCode>
+      <FileName>DataModel\RefillModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AtmTeller.Data.DataModel.OrderModel" Collapsed="true">
+    <Position X="5.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>iAACAAAAAAAQAAAAAgAQAAAAAgAAAAIAAAAAAAAAAAA=</HashCode>
+      <FileName>DataModel\OrderModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AtmTeller.Data.DataModel.MalfunctionReportModel">
+    <Position X="3" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAUABAAAAAAAAAAAAAAAIAAAAmAAA=</HashCode>
+      <FileName>DataModel\MalfunctionReportModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AtmTeller.Data.DataModel.ErrorReportModel">
+    <Position X="7.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAIAAAAAAQABAAAAAAAAAAAAAAAAAAAAgAAA=</HashCode>
+      <FileName>DataModel\ErrorReportModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AtmTeller.Data.DataModel.CardHolderModel" Collapsed="true">
+    <Position X="10" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACCAAAAgAEAABQAAAAAAQABAgAAAAAQAAAAAIAAAA=</HashCode>
+      <FileName>DataModel\CardHolderModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AtmTeller.Data.DataModel.AtmUserModel" Collapsed="true">
+    <Position X="13.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACABAAACAAAAAAAAAAAAQABAAACAgAAQAABAIAAAA=</HashCode>
+      <FileName>DataModel\AtmUserModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AtmTeller.Data.DataModel.AtmModel" Collapsed="true">
+    <Position X="11.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAEAAAAAAAAAAKAAAQAAAEACAACAAgAAAAAAAA=</HashCode>
+      <FileName>DataModel\AtmModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AtmTeller.Data.DataModel.AtmComponentModel" Collapsed="true">
+    <Position X="10" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAgAAAAAAAAAAQAAAEAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DataModel\AtmComponentModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
